@@ -1,5 +1,6 @@
 include<iostream>
 using namespace std;
+<<<<<<< HEAD
 bool isPrime(int number) {
     if (number < 2) {
         return false;
@@ -35,4 +36,9 @@ int main() {
     findPrimes(start, end);
 
     return 0;
+=======
+int main()
+{
+cout << "The end of the fucking world";
+>>>>>>> feature_1
 }
