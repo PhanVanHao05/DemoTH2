@@ -2,5 +2,5 @@ include<iostream>
 using namespace std;
 int main()
 {
-cout << "Hello World cua feature_1 nhe";
+cout << "The end of the fucking world";
 }
